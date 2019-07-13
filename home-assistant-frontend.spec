@@ -4,7 +4,7 @@
 #
 Name     : home-assistant-frontend
 Version  : 20190710.0
-Release  : 31
+Release  : 32
 URL      : https://files.pythonhosted.org/packages/22/19/1faf035854cad4ab756e6fb90d2bf79f3d7abbdfd32b9c77e00dd954ecd6/home-assistant-frontend-20190710.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/22/19/1faf035854cad4ab756e6fb90d2bf79f3d7abbdfd32b9c77e00dd954ecd6/home-assistant-frontend-20190710.0.tar.gz
 Summary  : The Home Assistant frontend
