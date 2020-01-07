@@ -4,7 +4,7 @@
 #
 Name     : home-assistant-frontend
 Version  : 20191204.1
-Release  : 67
+Release  : 68
 URL      : https://files.pythonhosted.org/packages/4c/48/72b2f05eaea5d3c48e60a5087e73f5bf2f364eeeeeb44407e060b026bd00/home-assistant-frontend-20191204.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/4c/48/72b2f05eaea5d3c48e60a5087e73f5bf2f364eeeeeb44407e060b026bd00/home-assistant-frontend-20191204.1.tar.gz
 Summary  : The Home Assistant frontend
