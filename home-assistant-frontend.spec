@@ -4,7 +4,7 @@
 #
 Name     : home-assistant-frontend
 Version  : 20200220.5
-Release  : 82
+Release  : 83
 URL      : https://files.pythonhosted.org/packages/1e/ef/fb859986378e1decd58dda49bc18558af7f0e8a0ec6aa5bbb57246849197/home-assistant-frontend-20200220.5.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1e/ef/fb859986378e1decd58dda49bc18558af7f0e8a0ec6aa5bbb57246849197/home-assistant-frontend-20200220.5.tar.gz
 Summary  : The Home Assistant frontend
@@ -54,7 +54,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1582908529
+export SOURCE_DATE_EPOCH=1582935306
 # -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
