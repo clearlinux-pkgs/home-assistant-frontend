@@ -1,5 +1,5 @@
 PKG_NAME := home-assistant-frontend
-URL = https://files.pythonhosted.org/packages/ce/de/f21fffc298064b25d15940fea48259db84b65c0f6ca0452896a2ed0b4c0a/home-assistant-frontend-20200427.1.tar.gz
+URL = https://files.pythonhosted.org/packages/2f/3f/3fd550ce8b7959ba322c7e460cba236713b14001a5110000660f38e5374c/home-assistant-frontend-20200427.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
