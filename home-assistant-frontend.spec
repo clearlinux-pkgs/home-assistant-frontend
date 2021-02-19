@@ -4,7 +4,7 @@
 #
 Name     : home-assistant-frontend
 Version  : 20210208.0
-Release  : 182
+Release  : 183
 URL      : https://files.pythonhosted.org/packages/d4/57/7efd61c44a9fdd8329eff41685ab5e4b5b0a79da2bbcef7b6fb7d06e6d58/home-assistant-frontend-20210208.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d4/57/7efd61c44a9fdd8329eff41685ab5e4b5b0a79da2bbcef7b6fb7d06e6d58/home-assistant-frontend-20210208.0.tar.gz
 Summary  : The Home Assistant frontend
