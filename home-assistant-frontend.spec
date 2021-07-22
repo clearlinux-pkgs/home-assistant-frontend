@@ -4,7 +4,7 @@
 #
 Name     : home-assistant-frontend
 Version  : 20210707.0
-Release  : 224
+Release  : 225
 URL      : https://files.pythonhosted.org/packages/ec/50/0a77cb88586164c561e3e315d72f864dfb0b262963fbdcb77469ce8532be/home-assistant-frontend-20210707.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ec/50/0a77cb88586164c561e3e315d72f864dfb0b262963fbdcb77469ce8532be/home-assistant-frontend-20210707.0.tar.gz
 Summary  : The Home Assistant frontend
