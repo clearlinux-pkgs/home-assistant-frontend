@@ -4,7 +4,7 @@
 #
 Name     : home-assistant-frontend
 Version  : 20211028.0
-Release  : 254
+Release  : 255
 URL      : https://files.pythonhosted.org/packages/f8/6d/81b4cb002b55e0f03012c47143aa6f83fd857e9ccf1d25b097119fff6131/home-assistant-frontend-20211028.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f8/6d/81b4cb002b55e0f03012c47143aa6f83fd857e9ccf1d25b097119fff6131/home-assistant-frontend-20211028.0.tar.gz
 Summary  : The Home Assistant frontend
@@ -55,7 +55,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1635465450
+export SOURCE_DATE_EPOCH=1635739865
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
